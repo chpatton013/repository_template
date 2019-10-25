@@ -9,7 +9,7 @@
 ## License
 
 `{ProjectName}` is licensed under the terms of the MIT License, as described in
-[LICENSE.md](LICENSE.md)
+[LICENSE.md](LICENSE.md).
 
 ## Contributing
 
